@@ -1,0 +1,10 @@
+c:\users\яна\documents\visual studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityBunaryStudio.exe.config
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityBunaryStudio.exe
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityBunaryStudio.pdb
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityFramework.dll
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityFramework.xml
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.csprojResolveAssemblyReference.cache
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.exe
+C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.pdb
