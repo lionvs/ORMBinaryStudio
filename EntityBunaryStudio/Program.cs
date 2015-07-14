@@ -88,6 +88,27 @@ namespace EntityBinaryStudio
                 Console.WriteLine("{0}, {1}", test.category, test.avar);              
 
             }
+
+            Console.WriteLine("\nStudent results\n");
+
+            var groupedWorks = db.Works.GroupBy(x => new { x.TestUser, x.CurrTest.TestCategory })
+                    .Select(y => new
+                    {
+                        User = y.Key.TestUser,
+                        Category = y.Key.TestCategory,
+                        Time = y.Aggregate(new TimeSpan(0), (p, v) => p.Add(v.TimeUsed)),
+                        Result = y.Sum(s => s.Result),
+                        Percent = y.Sum(s => s.Result) * 100.0 / db.Works.Where(work => work.TestUser == y.Key.TestUser).Sum(work => work.Result)
+                    }
+                    );
+            foreach (var work in groupedWorks)
+            {
+                Console.WriteLine("{0} - {1} - {2} - {3} - {4}", work.User.Name, work.Category, work.Result, work.Time, work.Percent);
+            }
+
+
+
+
 //            Рейтинг вопросов по набранным баллам
             //  Console.WriteLine("Question rating by mark:\n");
 

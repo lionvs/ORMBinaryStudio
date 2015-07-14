@@ -7,3 +7,6 @@ C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityB
 C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.exe
 C:\Users\Яна\Documents\Visual Studio 2013\Projects\EntityBunaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.pdb
+C:\Users\Volodya\Documents\GitHub\ORMBinaryStudio\EntityBunaryStudio\bin\Debug\EntityBunaryStudio.exe.config
+C:\Users\Volodya\Documents\GitHub\ORMBinaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.exe
+C:\Users\Volodya\Documents\GitHub\ORMBinaryStudio\EntityBunaryStudio\obj\Debug\EntityBunaryStudio.pdb
